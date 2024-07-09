@@ -1556,7 +1556,7 @@ input, select, textarea {
 	}
 
 #profilePic{
-	border-radius: 50%;
+	border-radius: 25%;
 	max-height: 25%;
 	max-width: 25%;
 }
