@@ -563,6 +563,11 @@ input, select, textarea {
 			padding-left: 0.5em;
 		}
 
+	.skill-list{
+		color: #4eb980;
+		text-decoration: underline;
+	}
+
 /* Actions */
 
 	ul.actions {
@@ -1501,13 +1506,13 @@ input, select, textarea {
 			input[type="button"],
 			.button {
 				display: block;
-				width: 100%;
+				width: 50%;
 			}
 
 		/* Box */
 
 			.box {
-				padding: 2em 1em;
+				padding: 1em 1em;
 			}
 
 		/* Feature */
