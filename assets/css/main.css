@@ -507,7 +507,7 @@ input, select, textarea {
 			perspective: 500px;
 		}
 
-			.image.icon:before {
+			/* .image.icon:before {
 				-moz-transition: -moz-transform 0.1s ease-in-out, font-size 0.1s ease-in-out;
 				-webkit-transition: -webkit-transform 0.1s ease-in-out, font-size 0.1s ease-in-out;
 				-ms-transition: -ms-transform 0.1s ease-in-out, font-size 0.1s ease-in-out;
@@ -523,7 +523,7 @@ input, select, textarea {
 				top: 50%;
 				width: 1em;
 				z-index: 1;
-			}
+			} */
 
 			.image.icon:hover:before {
 				-moz-transform: translateZ(1em);
@@ -975,14 +975,14 @@ input, select, textarea {
 		text-align: center;
 	}
 
-		#header:before, #header:after {
+		/* #header:before, #header:after {
 			background: rgba(224, 224, 224, 0.75);
 			content: '';
 			left: 50%;
 			position: absolute;
 			width: 1px;
 			z-index: 0;
-		}
+		} */
 
 		#header:before {
 			height: calc(100% - 50px);
